@@ -1,6 +1,6 @@
 ## Hi there 👋
 # I'am Chu Tien Trong
-### Email: trongct.uit@gmail.com
+### Email: trongct25198@gmail.com
 ### Website: [Portfolio](https://trongct-forworks.tk)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/chutientrong/chutientrong/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/chutientrong/chutientrong/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
