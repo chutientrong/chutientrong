@@ -3,7 +3,7 @@
 
 ### Leetcode Activities
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/chutientrong?theme=unicorn&font=Kanit&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/chutientrong?theme=light&font=Open%20Sans&ext=heatmap)
 
 ### Github Activities
 
